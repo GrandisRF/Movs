@@ -1,6 +1,10 @@
 package id.sch.smktelkom_mlg.privateassignment.xirpl401.movs.Model;
 
-public class Movie {
+import com.orm.SugarRecord;
+
+import java.io.Serializable;
+
+public class Movie extends SugarRecord implements Serializable {
 
     public String source;
 
@@ -69,7 +73,7 @@ public class Movie {
         this.genre_ids = genre_ids;
     }
 
-    public int getId() {
+    public int getID() {
         return id;
     }
 
