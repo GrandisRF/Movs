@@ -1,7 +1,7 @@
 ## Nama Aplikasi : 
 #### Movs
 ## Link File APK : 
-https://drive.google.com/open?id=0B7e8aim1AeapV25VQWd2T3JHR1k
+https://drive.google.com/open?id=0B7e8aim1AeapY2M3cjA5VHdublU
 ## Identitas Siswa :
     Nama            : Ahmad Dimas Abid Muttaqi
     Kelas / No urut : XI RPL 4 / 01
